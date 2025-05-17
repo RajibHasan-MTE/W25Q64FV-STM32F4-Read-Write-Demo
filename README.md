@@ -28,7 +28,7 @@ This repository demonstrates how to interface the Winbond W25Q64FV 64Mbit (8MB) 
 | Sector Size           | 4 KB              |
 | Block Sizes           | 32 KB, 64 KB      |
 | Interface             | SPI (1/2/4-bit)   |
-| Voltage               | 2.7V � 3.6V       |
+| Voltage               | 2.7V – 3.6V       |
 
 ---
 
@@ -42,4 +42,80 @@ This repository demonstrates how to interface the Winbond W25Q64FV 64Mbit (8MB) 
 ---
 
 ## ?? Folder Structure
+W25Q64FV-STM32F4-Read-Write-Demo/
+├── Core/
+│ ├── Inc/
+│ │ └── w25q64fv.h # Driver header
+│ └── Src/
+│ └── w25q64fv.c # Driver source
+├── README.md
+├── main.c # Example usage
+└── .ioc # STM32CubeMX project file
+
+yaml
+Copy
+Edit
+
+---
+
+## 🔌 SPI Pin Mapping Example (for STM32F4)
+
+| Signal  | STM32F4 Pin |
+|---------|-------------|
+| CS      | GPIOA_PIN_4 |
+| SCK     | GPIOA_PIN_5 |
+| MISO    | GPIOA_PIN_6 |
+| MOSI    | GPIOA_PIN_7 |
+
+Adjust according to your STM32F4 board configuration and set via CubeMX or directly in code.
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/W25Q64FV-STM32F4-Read-Write-Demo.git
+Open the .ioc file with STM32CubeIDE.
+
+Generate the project and build.
+
+Flash to your STM32F4 board.
+
+Observe flash operations via UART or debugger.
+
+📖 Learning Resources
+W25Q64FV Datasheet (Winbond)
+
+STM32 HAL SPI Documentation
+
+More about SPI Flash Memory
+
+📬 Contributing
+This repository is open for educational purposes. Contributions and improvements are welcome! Please submit a pull request or open an issue for feedback or help.
+
+📄 License
+This project is licensed under the MIT License — feel free to use and share!
+
+👨‍💻 Author
+Rajib Hasan – GitHub Profile
+Student, Embedded Systems Developer, Robotics Enthusiast.
+
+markdown
+Copy
+Edit
+
+Let me know if you want help with:
+- `w25q64fv.c/.h` driver code
+- `main.c` read/write test logic
+- STM32CubeIDE `.ioc` configuration setup
+
+I'll prepare those files for your repository as well.
+
+
+
+
+
+
+
 
