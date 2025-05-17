@@ -67,16 +67,16 @@ Memory Size: 64 Megabits (8 Megabytes)
 ## 📁 Folder Structure
 
 
- ```markdown
- W25Q64FV-STM32F4-Read-Write-Demo/
- ├── Core/
- │ ├── Inc/
- │ │ 	└── w25q64fv.h # Driver header
- │ └── Src/
- └── w25q64fv.c # Driver source
- ├── main.c # Example usage
- ├── README.md
- └── W25Q64FV-Demo.ioc # STM32CubeMX project file
+	```markdown
+ 	W25Q64FV-STM32F4-Read-Write-Demo/
+ 	├── Core/
+ 	│ ├── Inc/
+ 	│ │ 	└── w25q64fv.h # Driver header
+ 	│ └── Src/
+ 	└── w25q64fv.c # Driver source
+ 	├── main.c # Example usage
+ 	├── README.md
+ 	└── W25Q64FV-Demo.ioc # STM32CubeMX project file
 
 
 
