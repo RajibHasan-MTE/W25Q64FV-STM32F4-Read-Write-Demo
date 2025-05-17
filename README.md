@@ -2,7 +2,7 @@
 
 This repository demonstrates how to interface the Winbond W25Q64FV 64Mbit (8MB) SPI Flash memory with STM32F4 microcontrollers using SPI protocol.
 
-?? **Goal**: Enable learning and development by providing working code for initializing, reading, writing, and erasing memory blocks on the W25Q64FV.
+**Goal**: Enable learning and development by providing working code for initializing, reading, writing, and erasing memory blocks on the W25Q64FV.
 Manufacturer: Winbond
 Memory Size: 64 Megabits (8 Megabytes)
 
