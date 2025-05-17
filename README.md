@@ -64,16 +64,19 @@ Memory Size: 64 Megabits (8 Megabytes)
 
 ---
 
-## Folder Structure
+## 📁 Folder Structure
+
 W25Q64FV-STM32F4-Read-Write-Demo/
 ├── Core/
 │ ├── Inc/
 │ │ └── w25q64fv.h # Driver header
 │ └── Src/
 │ └── w25q64fv.c # Driver source
-├── README.md
 ├── main.c # Example usage
-└── .ioc # STM32CubeMX project file
+├── README.md
+└── W25Q64FV-Demo.ioc # STM32CubeMX project file
+
+
 
 
 ## 🔌 SPI Pin Mapping Example (for STM32F4)
