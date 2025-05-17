@@ -66,8 +66,6 @@ Memory Size: 64 Megabits (8 Megabytes)
 
 ## 📁 Folder Structure
 
-
-	```markdown
  	W25Q64FV-STM32F4-Read-Write-Demo/
  	├── Core/
  	│ ├── Inc/
@@ -77,8 +75,6 @@ Memory Size: 64 Megabits (8 Megabytes)
  	├── main.c # Example usage
  	├── README.md
  	└── W25Q64FV-Demo.ioc # STM32CubeMX project file
-
-
 
 
 ## 🔌 SPI Pin Mapping Example (for STM32F4)
