@@ -6,12 +6,10 @@ This repository demonstrates how to interface the Winbond W25Q64FV 64Mbit (8MB) 
 Manufacturer: Winbond
 Memory Size: 64 Megabits (8 Megabytes)
 
-🧠 Memory Organization:
-Pages: 256 Bytes each
-
-Sectors: 64KB each (with 16 pages per sector)
-
-Blocks: Includes 32KB and 64KB erase blocks
+# 🧠 Memory Organization:
+- Pages: 256 Bytes each
+- Sectors: 64KB each (with 16 pages per sector)
+- Blocks: Includes 32KB and 64KB erase blocks
 
 🔐 Security Features:
 Block Protection: Protect certain memory regions
