@@ -11,26 +11,22 @@ Memory Size: 64 Megabits (8 Megabytes)
 - Sectors: 64KB each (with 16 pages per sector)
 - Blocks: Includes 32KB and 64KB erase blocks
 
-🔐 Security Features:
-Block Protection: Protect certain memory regions
+# 🔐 Security Features:
 
-Software & Hardware Write Protection
+-Block Protection: Protect certain memory regions
+-Software & Hardware Write Protection
+-Power-down mode for ultra-low power
 
-Power-down mode for ultra-low power
-
-🧩 Packages Available:
-8-pin SOIC, WSON, and others (compact for PCB integration)
+# 🧩 Packages Available:
+-8-pin SOIC, WSON, and others (compact for PCB integration)
 
 🛠️ Applications:
-Embedded systems
 
-Code storage for microcontrollers
-
-Data logging
-
-Consumer electronics
-
-IoT devices
+- Embedded systems
+- Code storage for microcontrollers
+- Data logging
+- Consumer electronics
+- IoT devices
 ---
 
 ## Project Features
