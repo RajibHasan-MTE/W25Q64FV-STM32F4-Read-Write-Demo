@@ -7,7 +7,7 @@ Memory Size: 64 Megabits (8 Megabytes)
 ## 📌 W25Q64FV Flash Memory IC Pinout
 
 <p align="center">
-  <img src="DOCS/img.jpg" alt="Pinout" width="450">
+  <img src="DOCS/img.jpg" alt="Pinout" width="500">
 </p>
 
 # 🧠 Memory Organization:
