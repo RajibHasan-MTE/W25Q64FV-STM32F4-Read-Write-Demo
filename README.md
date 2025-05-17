@@ -35,7 +35,7 @@ Consumer electronics
 IoT devices
 ---
 
-## ?? Project Features
+## Project Features
 
 - SPI initialization for W25Q64FV
 - Flash memory ID read (Manufacturer ID, Device ID)
@@ -48,7 +48,7 @@ IoT devices
 
 ---
 
-## ?? Memory Overview
+## Memory Overview
 
 | Feature               | Value             |
 |-----------------------|------------------|
@@ -61,7 +61,7 @@ IoT devices
 
 ---
 
-## ?? Requirements
+## Requirements
 
 - STM32F4 microcontroller (e.g., STM32F401RE, STM32F411, STM32F407)
 - STM32CubeIDE
@@ -70,7 +70,7 @@ IoT devices
 
 ---
 
-## ?? Folder Structure
+## Folder Structure
 W25Q64FV-STM32F4-Read-Write-Demo/
 ├── Core/
 │ ├── Inc/
