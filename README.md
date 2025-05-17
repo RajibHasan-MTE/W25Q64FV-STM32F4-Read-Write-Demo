@@ -71,13 +71,13 @@ Adjust according to your STM32F4 board configuration and set via CubeMX or direc
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/W25Q64FV-STM32F4-Read-Write-Demo.git
-Open the .ioc file with STM32CubeIDE.
+2. Open the .ioc file with STM32CubeIDE.
 
-Generate the project and build.
+3. Generate the project and build.
 
-Flash to your STM32F4 board.
+4. Flash to your STM32F4 board.
 
-Observe flash operations via UART or debugger.
+5. Observe flash operations via UART or debugger.
 
 📖 Learning Resources
 W25Q64FV Datasheet (Winbond)
