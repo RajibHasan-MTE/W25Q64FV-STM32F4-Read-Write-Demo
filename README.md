@@ -11,6 +11,10 @@ Memory Size: 64 Megabits (8 Megabytes)
 - Sectors: 64KB each (with 16 pages per sector)
 - Blocks: Includes 32KB and 64KB erase blocks
 
+## 📌 W25Q64FV Flash Memory IC Pinout
+
+![W25Q64FV Pinout](img.jpg)
+
 # 🔐 Security Features:
 
 -Block Protection: Protect certain memory regions
