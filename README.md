@@ -10,6 +10,11 @@ Memory Size: 64 Megabits (8 Megabytes)
   <img src="DOCS/img.jpg" alt="Pinout" width="800" height="300">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/your-gif-link.gif" alt="Animated Pinout" width="800" height="300">
+</p>
+
+
 # 🧠 Memory Organization:
 - Pages: 256 Bytes each
 - Sectors: 64KB each (with 16 pages per sector)
