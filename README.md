@@ -66,9 +66,10 @@ Memory Size: 64 Megabits (8 Megabytes)
 
 ## 📁 Folder Structure
 
+
+
 W25Q64FV-STM32F4-Read-Write-Demo/
 ├── Core/
-|
 │ ├── Inc/
 │ │ 	└── w25q64fv.h # Driver header
 │ └── Src/
