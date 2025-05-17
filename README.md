@@ -68,8 +68,9 @@ Memory Size: 64 Megabits (8 Megabytes)
 
 W25Q64FV-STM32F4-Read-Write-Demo/
 ├── Core/
+|
 │ ├── Inc/
-│ │ └── w25q64fv.h # Driver header
+│ │ 	└── w25q64fv.h # Driver header
 │ └── Src/
 │ └── w25q64fv.c # Driver source
 ├── main.c # Example usage
