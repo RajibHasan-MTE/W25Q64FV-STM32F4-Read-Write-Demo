@@ -52,11 +52,6 @@ W25Q64FV-STM32F4-Read-Write-Demo/
 ├── main.c # Example usage
 └── .ioc # STM32CubeMX project file
 
-yaml
-Copy
-Edit
-
----
 
 ## 🔌 SPI Pin Mapping Example (for STM32F4)
 
@@ -100,10 +95,6 @@ This project is licensed under the MIT License — feel free to use and share!
 👨‍💻 Author
 Rajib Hasan – GitHub Profile
 Student, Embedded Systems Developer, Robotics Enthusiast.
-
-markdown
-Copy
-Edit
 
 Let me know if you want help with:
 - `w25q64fv.c/.h` driver code
